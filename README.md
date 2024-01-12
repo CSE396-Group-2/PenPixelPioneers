@@ -4,6 +4,8 @@
 
 ## Linux Build Dosyası Çalıştırma Talimatları
 
+Projemiz Linux Ubuntu işletim sisteminde çalıştırılabilmektedir.
+
 ### Donanım Bağlantısı
 
 - **Güç Kablosu:** 12V 5A
