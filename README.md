@@ -37,7 +37,9 @@ Eğer Linux Ubuntunuzda python3 yoksa aşağıdaki adımları izleyerek kurabili
 ```bash
 sudo apt-get update
 sudo apt-get install python3
+```
 Kurulumu kontrol etmek için aşağıdaki komutu çalıştırmanız yeterli:
+```bash
 python3 --version
 ```
 
