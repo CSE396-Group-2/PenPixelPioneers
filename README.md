@@ -71,7 +71,7 @@ Yeni font eklemek için tablet veya telefondan taslak, verilen karelerin dışı
 - Port Erişiminde Problem Olması Durumunda ilgili port için gerekli izinler verilmeli (dev dizinine gidilerek)
 	chmod 777 <port>
 
-	örnek senaryo (/dev/tty/USB0):
+	örnek senaryo (/dev/ttyUSB0):
 ```bash
 sudo su
 cd .. 
