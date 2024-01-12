@@ -1,0 +1,5 @@
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/config.tests/static_link_order/CMakeFiles/rebuild_cache.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/config.tests/static_link_order/CMakeFiles/edit_cache.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/config.tests/static_link_order/CMakeFiles/static_link_order_test.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/config.tests/static_link_order/CMakeFiles/staticLib.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/config.tests/static_link_order/CMakeFiles/objLib.dir

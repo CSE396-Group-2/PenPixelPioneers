@@ -1,0 +1,8 @@
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/install/strip.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/install/local.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/install.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/list_install_components.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/rebuild_cache.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/edit_cache.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/camera.dir
+/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/camera_autogen.dir

@@ -1,0 +1,23 @@
+# ninja log v5
+0	1414	0	CMakeFiles/camera_autogen	3eafda0e2591d3a8
+0	1414	0	camera_autogen/mocs_compilation.cpp	3eafda0e2591d3a8
+1417	1951	1705039925307033009	CMakeFiles/camera.dir/constants.cpp.o	791970e3d871912
+1415	6075	1705039929407151141	CMakeFiles/camera.dir/line_segmentor.cpp.o	d0d1191d885446e0
+1415	6507	1705039929863164274	CMakeFiles/camera.dir/metadatadialog.cpp.o	70772d941f16db88
+1414	6538	1705039929895165196	CMakeFiles/camera.dir/imagesettings.cpp.o	d4ed5d0ce20769cd
+1951	7074	1705039930339177981	CMakeFiles/camera.dir/pre_processor.cpp.o	ae743ee9a99de9db
+1415	7637	1705039930995196870	CMakeFiles/camera.dir/videosettings.cpp.o	87e0ac6bb3fef6ce
+1416	9031	1705039932387236942	CMakeFiles/camera.dir/utils.cpp.o	51065dae710666be
+1415	9635	1705039932991254327	CMakeFiles/camera.dir/main.cpp.o	86301cc742d38091
+1416	9912	1705039933267262268	CMakeFiles/camera.dir/identify_writer.cpp.o	67aeb9c9fb585b1e
+1414	11262	1705039934619301172	CMakeFiles/camera.dir/camera_autogen/mocs_compilation.cpp.o	87044c723aa8ab63
+6076	11270	1705039934627301402	CMakeFiles/camera.dir/feature_extractor.cpp.o	3e0fbfe1e554336b
+7637	11347	1705039934703303589	CMakeFiles/camera.dir/svgtottf.cpp.o	ed36cf07b105cbc9
+6508	13490	1705039936847365260	CMakeFiles/camera.dir/cli.cpp.o	4c6b7438bbd8052c
+7074	13684	1705039937043370897	CMakeFiles/camera.dir/pngtosvg.cpp.o	855990ffdc6fe06d
+9635	14643	1705039937999398387	CMakeFiles/camera.dir/worker.cpp.o	d33f494e83efa31e
+9912	15379	1705039938735419546	CMakeFiles/camera.dir/fontrenderer.cpp.o	8b2699c7e1f867be
+9031	15592	1705039938951425755	CMakeFiles/camera.dir/textsimulation.cpp.o	149bc24b4b470e24
+6538	17001	1705039940359466225	CMakeFiles/camera.dir/sheettopng.cpp.o	fc1f9965dd82854d
+1414	17786	1705039941143488754	CMakeFiles/camera.dir/camera.cpp.o	4be75fd23a3c5e66
+17786	18884	1705039942235520129	camera	4c41e64c0eb8eee

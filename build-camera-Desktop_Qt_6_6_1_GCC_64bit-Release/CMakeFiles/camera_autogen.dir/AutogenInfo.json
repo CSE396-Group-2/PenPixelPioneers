@@ -1,0 +1,186 @@
+{
+	"BUILD_DIR" : "/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/camera_autogen",
+	"CMAKE_BINARY_DIR" : "/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/seyda/Desktop/QT/QT-gui/camera",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/seyda/Desktop/QT/QT-gui/camera",
+	"HEADERS" : 
+	[
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/camera.h",
+			"MU",
+			"EWIEGA46WW/moc_camera.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/constants.h",
+			"MU",
+			"EWIEGA46WW/moc_constants.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/feature_extractor.h",
+			"MU",
+			"EWIEGA46WW/moc_feature_extractor.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/fontrenderer.h",
+			"MU",
+			"EWIEGA46WW/moc_fontrenderer.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/identify_writer.h",
+			"MU",
+			"EWIEGA46WW/moc_identify_writer.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/imagesettings.h",
+			"MU",
+			"EWIEGA46WW/moc_imagesettings.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/line_segmentor.h",
+			"MU",
+			"EWIEGA46WW/moc_line_segmentor.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/metadatadialog.h",
+			"MU",
+			"EWIEGA46WW/moc_metadatadialog.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/pngtosvg.hpp",
+			"MU",
+			"EWIEGA46WW/moc_pngtosvg.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/pre_processor.h",
+			"MU",
+			"EWIEGA46WW/moc_pre_processor.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/sheettopng.hpp",
+			"MU",
+			"EWIEGA46WW/moc_sheettopng.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/svgtottf.hpp",
+			"MU",
+			"EWIEGA46WW/moc_svgtottf.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/textsimulation.h",
+			"MU",
+			"EWIEGA46WW/moc_textsimulation.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/utils.h",
+			"MU",
+			"EWIEGA46WW/moc_utils.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/videosettings.h",
+			"MU",
+			"EWIEGA46WW/moc_videosettings.cpp"
+		],
+		[
+			"/home/seyda/Desktop/QT/QT-gui/camera/worker.h",
+			"MU",
+			"EWIEGA46WW/moc_worker.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/camera_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/camera_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_MULTIMEDIAWIDGETS_LIB",
+		"QT_MULTIMEDIA_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_SERIALPORT_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/usr/local/include/opencv4",
+		"/home/seyda/Qt/6.6.1/gcc_64/include/QtCore",
+		"/home/seyda/Qt/6.6.1/gcc_64/include",
+		"/home/seyda/Qt/6.6.1/gcc_64/mkspecs/linux-g++",
+		"/home/seyda/Qt/6.6.1/gcc_64/include/QtGui",
+		"/home/seyda/Qt/6.6.1/gcc_64/include/QtMultimedia",
+		"/home/seyda/Qt/6.6.1/gcc_64/include/QtNetwork",
+		"/home/seyda/Qt/6.6.1/gcc_64/include/QtMultimediaWidgets",
+		"/home/seyda/Qt/6.6.1/gcc_64/include/QtWidgets",
+		"/home/seyda/Qt/6.6.1/gcc_64/include/QtSerialPort",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/camera_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/camera_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/home/seyda/Qt/6.6.1/gcc_64/./libexec/moc",
+	"QT_UIC_EXECUTABLE" : "/home/seyda/Qt/6.6.1/gcc_64/./libexec/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"SETTINGS_FILE" : "/home/seyda/Desktop/QT/QT-gui/build-camera-Desktop_Qt_6_6_1_GCC_64bit-Release/CMakeFiles/camera_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/camera.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/cli.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/constants.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/feature_extractor.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/fontrenderer.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/identify_writer.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/imagesettings.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/line_segmentor.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/main.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/metadatadialog.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/pngtosvg.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/pre_processor.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/sheettopng.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/svgtottf.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/textsimulation.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/utils.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/videosettings.cpp", "MU" ],
+		[ "/home/seyda/Desktop/QT/QT-gui/camera/worker.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
