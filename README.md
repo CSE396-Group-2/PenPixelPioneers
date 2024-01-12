@@ -73,9 +73,9 @@ Yeni font eklemek için tablet veya telefondan taslak, verilen karelerin dışı
 
 	örnek senaryo (/dev/tty/USB0):
   ```bash
-  sudo su
-	cd .. 
-	cd ..
-	cd dev
-	chmod 777 ttyUSB0
-  ```
+sudo su
+cd .. 
+cd ..
+cd dev
+chmod 777 ttyUSB0
+```
