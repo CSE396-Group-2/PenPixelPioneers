@@ -72,7 +72,7 @@ Yeni font eklemek için tablet veya telefondan taslak, verilen karelerin dışı
 	chmod 777 <port>
 
 	örnek senaryo (/dev/tty/USB0):
-  ```bash
+```bash
 sudo su
 cd .. 
 cd ..
